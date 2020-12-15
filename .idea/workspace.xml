@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/PartOne/PartOne" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/demo.springTraining/demo.springTraining" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/partOne/partOne" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/spring4/spring4" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/PartThree/PartThree" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/Springbootpart1-master/Springbootpart1-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../SpringExample1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../TDDjava-master/TDDjava-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Week_6_Animal_Part2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../Week_9_StringCalculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/eclipse-workspace/Visitor_Project" value="PREVIEW" />
+        <entry key="$USER_HOME$/eclipse-workspace/VisitorsProject" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="694" />
+    <option name="height" value="735" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="take1.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
